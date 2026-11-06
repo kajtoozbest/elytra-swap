@@ -1,0 +1,6 @@
+# Combat timer; every player hit renews the full time
+tag-seconds: 15
+# Ender pearl cooldown, always active (combat or not)
+pearl-cooldown-seconds: 10
+# Lunge spear cooldown, only applies while in combat
+lunge-cooldown-seconds: 10

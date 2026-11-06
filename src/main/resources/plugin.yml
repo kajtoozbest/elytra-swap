@@ -1,0 +1,9 @@
+name: SpearPearlLimiter
+version: 1.0.0
+main: me.spearpearl.SpearPearlLimiter
+api-version: '1.21'
+description: Ender pearl cooldown and combat-only Lunge cooldown.
+permissions:
+  spearpearl.bypass:
+    description: Not affected by cooldowns
+    default: op
